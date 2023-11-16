@@ -20,5 +20,10 @@ git branch -d branchName - видаляє гілку локально з про�
 git push origin --delete name - видаляє гілку з сайту github
 git diff - показує відрізки рядків між двома версіями файлу (між двома комітами)
 git log - показує історію комітів
+git log --pretty=oneline --max-count=2
+git log --pretty=oneline --since='5 minutes ago'
+git log --pretty=oneline --until='5 minutes ago'
+git log --pretty=oneline --author=<your name>
+git log --pretty=oneline --all
 cd gitTutorial - переходимо в папку gitTutorial
 Для того щоб вийти з режиму перегляду комітів використовуйте клавішу q (стосується команди №20 і №21)
