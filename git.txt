@@ -26,4 +26,6 @@ git log --pretty=oneline --until='5 minutes ago'
 git log --pretty=oneline --author=<your name>
 git log --pretty=oneline --all
 cd gitTutorial - переходимо в папку gitTutorial
+git remote -v - вказує на який репозиторій ми спирємось
+git remote set-url origin - переприв'язка репозиторія
 Для того щоб вийти з режиму перегляду комітів використовуйте клавішу q (стосується команди №20 і №21)
