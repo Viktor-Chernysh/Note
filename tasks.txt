@@ -1,0 +1,11 @@
+// Мікро процеси
+// 1 Promise
+// 2 Observer
+
+// Макро процеси
+// 1 setTimeout
+// 2 setInterval
+// https://developer.mozilla.org/en-US/docs/Web/API/Window/setImmediate
+// 3 setImmediate
+//https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame
+// 4 requestAnimationFrame
